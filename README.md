@@ -19,3 +19,26 @@ With the rapid surge of AI-generated synthetic media, verifying digital authenti
 
 ## 🛠️ System Architecture
 The data flow follows a structured pipeline:
+---
+
+## 💻 Tech Stack
+- **Frontend:** React / Next.js
+- **Backend:** Python (FastAPI / Flask)
+- **AI / ML Models:** PyTorch, OpenCV, Hugging Face Transformers
+- **Database & Cloud:** PostgreSQL / Firebase / Cloud Services
+
+---
+
+## 📋 Implementation Roadmap & Status
+- **Phase 1:** Research, dataset collection, and baseline model training.
+- **Phase 2:** Backend API development and core ML pipeline integration.
+- **Phase 3:** Frontend UI development and API linking.
+- **Phase 4:** Testing, performance optimization, and deployment.
+- **Prototype Status:** Working Prototype Built & Tested.
+
+---
+
+## 👥 Team Information
+- **Team Leader:** Aysha Ibrahim
+- *Team members* : aysha saman,sheikh sana juber , ayisha zulain****
+- Institution:** anjuman institute of technology and management-bhatkal 
